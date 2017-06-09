@@ -1,0 +1,222 @@
+.welcome {
+    background-image: url(../img/portada.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nav-mio {
+    background-color: transparent;
+    border: none;
+}
+
+.cont {
+    padding: 100px 0;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    font-weight: bold;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #41521F;
+    border-color: #41521F;
+    margin: 0 0%;
+}
+
+
+/*SECCION 2*/
+
+.foundation-information {
+    margin: 0;
+    padding-left: 0px;
+    padding-right: 33px;
+}
+
+.container-photo img {
+    width: 76%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.information h4 {
+    color: #A89F68;
+}
+
+.information a {
+    color: #A89F68;
+}
+
+
+/*SECCION 3*/
+
+.row img {
+    width: 76%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.row {
+    margin-right: 0;
+}
+
+.cosita {
+    border: solid 15px white;
+}
+
+.third {
+    background-color: #A89F68;
+    padding: 100px 0;
+    margin-bottom: 0;
+}
+
+.third .text {
+    padding-left: 93px;
+}
+
+.third .text h5 {
+    color: white;
+}
+
+.third .text h4 {
+    color: #41521F;
+}
+
+.third .text p {
+    color: white;
+}
+
+.btn-default {
+    color: white;
+    background-color: #41521F;
+    border-color: #41521F;
+}
+
+
+/*FOURTH SECTION*/
+
+.help-koalas {
+    background-image: url(../img/all.jpg);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 174px;
+}
+
+.help-koalas p {
+    color: white;
+}
+
+.cont-save {
+    padding: 100px 0;
+    margin-bottom: 10px;
+    color: white;
+}
+
+
+/*FIFTH SECTION*/
+
+.we-can-help {
+    text-align: center;
+    color: #41521F;
+    padding-bottom: 5%;
+}
+
+.we-can-help i {
+    font-size: 40px;
+    padding-bottom: 20px;
+    color: #A89F68;
+}
+
+.we-can-help h4 {
+    padding-bottom: 35px;
+    padding-top: 5%;
+}
+
+.we-can-help h6 {
+    color: black;
+}
+
+
+/*SIXTH SECTION WE CAN HELP TOO*/
+
+.we-can-help-too {
+    text-align: center;
+    color: #41521F;
+    background-color: #A89F68;
+    padding-top: 5%;
+    padding-bottom: 49px;
+}
+
+.we-can-help-too span {
+    text-align: left;
+    color: white;
+    font-size: 22px;
+}
+
+.we-can-help-too h5 {
+    color: black;
+    border-bottom: solid thin white;
+    padding: 10px;
+}
+
+.we-can-help-too .big-number {
+    font-size: 89px;
+}
+
+.we-can-help-too .dollar-sign {
+    position: absolute;
+    top: 45px;
+    left: 70px;
+}
+
+.we-can-help-too .currency {}
+
+.btn-block {
+    display: block;
+    width: 50%;
+}
+
+.btn-default {
+    color: white;
+    background-color: #41521F;
+    border-color: #41521F;
+    margin: 20px 68px;
+}
+
+ol,
+ul {
+    margin-top: 31px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    list-style: none;
+    color: #A89F68;
+}
+
+.links-footer a {
+    color: #A89F68;
+}
+
+.links-footer h6 {
+    color: #A89F68;
+}
+
+.links-footer p {
+    color: white;
+}
+
+footer {
+    padding: 26px;
+    background-color: #41521F;
+}

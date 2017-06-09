@@ -1,0 +1,70 @@
+@media screen and ( max-width: 500px) {
+    .cont h1 {
+        font-size: 10px;
+    }
+    .cont p {
+        font-size: 9px;
+    }
+    .btn-block {
+        width: 20%;
+        height: 20%;
+        font-size: 9px;
+    }
+    .information h4 {
+        font-size: 10px;
+    }
+    .information p {
+        font-size: 11px;
+        margin: 0;
+        padding-left: 24px;
+        padding-right: 24px;
+        width: 88%
+    }
+    .foundation h4 {
+        font-size: 10px;
+        padding-left: 24px;
+        padding-right: 24px;
+    }
+    .third {
+        font-size: 8px;
+        padding: 0;
+    }
+    .third .text {
+        padding-left: 31px;
+    }
+    .third .text p {
+        font-size: 11px;
+        width: 77%;
+    }
+    .cosita {
+        margin-right: 1%;
+        margin-left: 8%;
+        margin-bottom: 12%;
+        margin-top: 0;
+    }
+    .we-can-help h6 h5 {
+        font-size: 9px;
+        padding-left: 24px;
+        padding-right: 49px;
+    }
+    .we-can-help-too {
+        font-size: 10px;
+    }
+    .we-can-help {
+        padding-left: 5%;
+    }
+    .btn-block {
+        margin-left: 40%;
+    }
+    .we-can-help-too .dollar-sign {
+        left: 85px;
+    }
+}
+
+.row img {
+    margin-left: 5%;
+}
+
+.row {
+    margin-left: 0;
+}
