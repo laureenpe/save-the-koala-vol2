@@ -220,3 +220,30 @@ footer {
     padding: 26px;
     background-color: #41521F;
 }
+
+
+/*MODAL*/
+
+.modal-title {
+    font-size: 12px;
+    color: black;
+}
+
+.btn-default {
+    margin: 23px 90px;
+}
+
+
+/*collapse*/
+
+.well {
+    background-color: #41521F;
+    border: 1px solid #41521F;
+    width: 21%;
+    margin-left: 72%;
+    color: white;
+}
+
+.well h4 {
+    font-size: 8px;
+}
